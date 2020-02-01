@@ -32,3 +32,6 @@ $dev_link = $this->context->link->getAdminLink('ProductDev', true, array(), arra
 ```
 - You can then display this link in your extra template for easy access
 - Don't forget to hide the link from your customer, they don't need to see it, it's for dev only
+
+## Need help?
+If you need help, post an issue on the forum or in github issues and I will help you
