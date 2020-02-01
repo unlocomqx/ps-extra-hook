@@ -3,7 +3,7 @@
 class ProductDevController extends ModuleAdminController
 {
 
-    /** @var ModuleClass */
+    /** @var YourModuleClass */
     public $module;
 
     public $bootstrap = true;
